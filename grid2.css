@@ -1,0 +1,12 @@
+.wrapper{
+    height: 100vh;
+    background-color: blueviolet;
+    display: grid;
+    /* grid-template-columns: auto auto auto auto ; */
+    grid-template-columns: repeat(2 ,auto);
+}
+.ch1{
+    text-align: center;
+    margin-top: 250px;
+    
+}

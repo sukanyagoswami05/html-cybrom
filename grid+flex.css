@@ -1,0 +1,10 @@
+.parent{
+    display: grid;
+    grid-template-columns: repeat(2,auto);
+
+}
+.ch1{
+    background-color: yellow;
+    display: flex;
+    align-items: center;
+}

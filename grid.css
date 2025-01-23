@@ -1,0 +1,16 @@
+.ch1,.ch2,.ch3,.ch4,.ch5{
+    background-color: aquamarine;
+    border: 2px solid;
+    color:white ;
+
+}
+.wrapper{
+    height: 100vh;
+    background-color: blueviolet;
+    display: grid;
+    /* grid-template-columns: auto auto auto auto ; */
+    grid-template-columns: repeat(3 ,auto);
+}
+/* vertical column  hori row */
+/* row k liye height 
+column k liye width  */
